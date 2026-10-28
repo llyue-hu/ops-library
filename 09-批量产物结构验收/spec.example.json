@@ -1,0 +1,73 @@
+{
+  "_note": "root 相对本 spec 文件解析；正式使用时改成你的产物目录（绝对路径亦可）",
+  "root": "fixtures/kaoyan_english",
+  "unit_glob": "*_英语一/",
+  "encoding": "utf-8",
+  "min_file_bytes": 3000,
+  "files": [
+    "00_整套.txt",
+    "01_完形.txt",
+    "02_阅读_Passage1.txt",
+    "03_阅读_Passage2.txt",
+    "04_阅读_Passage3.txt",
+    "05_阅读_Passage4.txt",
+    "06_新题型.txt",
+    "07_翻译.txt"
+  ],
+  "header_fields": [
+    "【年份】",
+    "【科目】",
+    "【题型】",
+    "【文章主题】",
+    "【大致词数】",
+    "【来源】",
+    "【来源说明】"
+  ],
+  "sections": [
+    "=== 原文 ===",
+    "=== 题目与答案 ===",
+    "=== 逐段翻译 ==="
+  ],
+  "blank_line_before": [
+    "=== 题目与答案 ===",
+    "=== 逐段翻译 ==="
+  ],
+  "forbidden": [
+    "\\*\\*",
+    "\\ufeff",
+    "\\f",
+    "(?m)^#{1,6} "
+  ],
+  "duplicate_phrases": [
+    "中文说明：中文说明："
+  ],
+  "counts": [
+    {
+      "name": "完形答案",
+      "scope": "01_完形.txt",
+      "pattern": "(?m)^参考答案：",
+      "exact": 20
+    },
+    {
+      "name": "阅读答案",
+      "scope": "0[2-5]_阅读_Passage*.txt",
+      "pattern": "(?m)^参考答案：",
+      "exact": 20
+    },
+    {
+      "name": "整套分隔线",
+      "scope": "00_整套.txt",
+      "pattern": "─{20,}",
+      "at_least": 8
+    }
+  ],
+  "paired": [
+    {
+      "name": "阅读译文配对",
+      "scope": "0[2-5]_阅读_Passage*.txt",
+      "a": "(?m)^EN: ",
+      "b": "(?m)^CN: ",
+      "min": 2
+    }
+  ]
+}

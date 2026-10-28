@@ -1,0 +1,71 @@
+============================================================
+【年份】2099
+【科目】英语一（示例数据）
+【题型】新题型
+【文章主题】结构校验占位文本
+【大致词数】1200
+【来源】无
+【来源说明】测试夹具，非真实试题，仅用于验证 docset_qa.py
+============================================================
+=== 原文 ===
+Placeholder sentence 501: this line exists only to make the fixture long enough for the byte-size check.
+占位句 501：这一行只为让夹具达到体积阈值，不表达任何内容。
+Placeholder sentence 502: this line exists only to make the fixture long enough for the byte-size check.
+占位句 502：这一行只为让夹具达到体积阈值，不表达任何内容。
+Placeholder sentence 503: this line exists only to make the fixture long enough for the byte-size check.
+占位句 503：这一行只为让夹具达到体积阈值，不表达任何内容。
+Placeholder sentence 504: this line exists only to make the fixture long enough for the byte-size check.
+占位句 504：这一行只为让夹具达到体积阈值，不表达任何内容。
+Placeholder sentence 505: this line exists only to make the fixture long enough for the byte-size check.
+占位句 505：这一行只为让夹具达到体积阈值，不表达任何内容。
+Placeholder sentence 506: this line exists only to make the fixture long enough for the byte-size check.
+占位句 506：这一行只为让夹具达到体积阈值，不表达任何内容。
+
+=== 题目与答案 ===
+1. 占位题干 502。
+参考答案：C
+考查类型：示例
+
+2. 占位题干 503。
+参考答案：C
+考查类型：示例
+
+3. 占位题干 504。
+参考答案：C
+考查类型：示例
+
+4. 占位题干 505。
+参考答案：C
+考查类型：示例
+
+5. 占位题干 506。
+参考答案：C
+考查类型：示例
+
+=== 逐段翻译 ===
+【第1段】
+EN: Placeholder sentence 502: this line exists only to make the fixture long enough for the byte-size check.
+CN: 占位句 502：这一行只为让夹具达到体积阈值，不表达任何内容。
+
+【第2段】
+EN: Placeholder sentence 503: this line exists only to make the fixture long enough for the byte-size check.
+CN: 占位句 503：这一行只为让夹具达到体积阈值，不表达任何内容。
+
+【第3段】
+EN: Placeholder sentence 504: this line exists only to make the fixture long enough for the byte-size check.
+CN: 占位句 504：这一行只为让夹具达到体积阈值，不表达任何内容。
+
+【第4段】
+EN: Placeholder sentence 505: this line exists only to make the fixture long enough for the byte-size check.
+CN: 占位句 505：这一行只为让夹具达到体积阈值，不表达任何内容。
+
+【第5段】
+EN: Placeholder sentence 506: this line exists only to make the fixture long enough for the byte-size check.
+CN: 占位句 506：这一行只为让夹具达到体积阈值，不表达任何内容。
+
+【第6段】
+EN: Placeholder sentence 507: this line exists only to make the fixture long enough for the byte-size check.
+CN: 占位句 507：这一行只为让夹具达到体积阈值，不表达任何内容。
+
+
+占位补充 1：fixture padding line, ignore me.

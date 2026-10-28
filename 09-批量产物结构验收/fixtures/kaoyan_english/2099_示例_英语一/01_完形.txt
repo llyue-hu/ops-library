@@ -1,0 +1,173 @@
+============================================================
+【年份】2099
+【科目】英语一（示例数据）
+【题型】完形填空
+【文章主题】结构校验占位文本
+【大致词数】1200
+【来源】无
+【来源说明】测试夹具，非真实试题，仅用于验证 docset_qa.py
+============================================================
+=== 原文 ===
+Placeholder sentence 1: this line exists only to make the fixture long enough for the byte-size check.
+占位句 1：这一行只为让夹具达到体积阈值，不表达任何内容。
+Placeholder sentence 2: this line exists only to make the fixture long enough for the byte-size check.
+占位句 2：这一行只为让夹具达到体积阈值，不表达任何内容。
+Placeholder sentence 3: this line exists only to make the fixture long enough for the byte-size check.
+占位句 3：这一行只为让夹具达到体积阈值，不表达任何内容。
+Placeholder sentence 4: this line exists only to make the fixture long enough for the byte-size check.
+占位句 4：这一行只为让夹具达到体积阈值，不表达任何内容。
+Placeholder sentence 5: this line exists only to make the fixture long enough for the byte-size check.
+占位句 5：这一行只为让夹具达到体积阈值，不表达任何内容。
+Placeholder sentence 6: this line exists only to make the fixture long enough for the byte-size check.
+占位句 6：这一行只为让夹具达到体积阈值，不表达任何内容。
+Placeholder sentence 7: this line exists only to make the fixture long enough for the byte-size check.
+占位句 7：这一行只为让夹具达到体积阈值，不表达任何内容。
+Placeholder sentence 8: this line exists only to make the fixture long enough for the byte-size check.
+占位句 8：这一行只为让夹具达到体积阈值，不表达任何内容。
+Placeholder sentence 9: this line exists only to make the fixture long enough for the byte-size check.
+占位句 9：这一行只为让夹具达到体积阈值，不表达任何内容。
+Placeholder sentence 10: this line exists only to make the fixture long enough for the byte-size check.
+占位句 10：这一行只为让夹具达到体积阈值，不表达任何内容。
+
+=== 题目与答案 ===
+1. 占位题干 1，请选择。
+选项释义：A 占位；B 占位；C 占位；D 占位
+参考答案：A
+考查类型：示例
+
+2. 占位题干 2，请选择。
+选项释义：A 占位；B 占位；C 占位；D 占位
+参考答案：A
+考查类型：示例
+
+3. 占位题干 3，请选择。
+选项释义：A 占位；B 占位；C 占位；D 占位
+参考答案：A
+考查类型：示例
+
+4. 占位题干 4，请选择。
+选项释义：A 占位；B 占位；C 占位；D 占位
+参考答案：A
+考查类型：示例
+
+5. 占位题干 5，请选择。
+选项释义：A 占位；B 占位；C 占位；D 占位
+参考答案：A
+考查类型：示例
+
+6. 占位题干 6，请选择。
+选项释义：A 占位；B 占位；C 占位；D 占位
+参考答案：A
+考查类型：示例
+
+7. 占位题干 7，请选择。
+选项释义：A 占位；B 占位；C 占位；D 占位
+参考答案：A
+考查类型：示例
+
+8. 占位题干 8，请选择。
+选项释义：A 占位；B 占位；C 占位；D 占位
+参考答案：A
+考查类型：示例
+
+9. 占位题干 9，请选择。
+选项释义：A 占位；B 占位；C 占位；D 占位
+参考答案：A
+考查类型：示例
+
+10. 占位题干 10，请选择。
+选项释义：A 占位；B 占位；C 占位；D 占位
+参考答案：A
+考查类型：示例
+
+11. 占位题干 11，请选择。
+选项释义：A 占位；B 占位；C 占位；D 占位
+参考答案：A
+考查类型：示例
+
+12. 占位题干 12，请选择。
+选项释义：A 占位；B 占位；C 占位；D 占位
+参考答案：A
+考查类型：示例
+
+13. 占位题干 13，请选择。
+选项释义：A 占位；B 占位；C 占位；D 占位
+参考答案：A
+考查类型：示例
+
+14. 占位题干 14，请选择。
+选项释义：A 占位；B 占位；C 占位；D 占位
+参考答案：A
+考查类型：示例
+
+15. 占位题干 15，请选择。
+选项释义：A 占位；B 占位；C 占位；D 占位
+参考答案：A
+考查类型：示例
+
+16. 占位题干 16，请选择。
+选项释义：A 占位；B 占位；C 占位；D 占位
+参考答案：A
+考查类型：示例
+
+17. 占位题干 17，请选择。
+选项释义：A 占位；B 占位；C 占位；D 占位
+参考答案：A
+考查类型：示例
+
+18. 占位题干 18，请选择。
+选项释义：A 占位；B 占位；C 占位；D 占位
+参考答案：A
+考查类型：示例
+
+19. 占位题干 19，请选择。
+选项释义：A 占位；B 占位；C 占位；D 占位
+参考答案：A
+考查类型：示例
+
+20. 占位题干 20，请选择。
+选项释义：A 占位；B 占位；C 占位；D 占位
+参考答案：A
+考查类型：示例
+
+=== 逐段翻译 ===
+【第1段】
+EN: Placeholder sentence 1: this line exists only to make the fixture long enough for the byte-size check.
+CN: 占位句 1：这一行只为让夹具达到体积阈值，不表达任何内容。
+
+【第2段】
+EN: Placeholder sentence 2: this line exists only to make the fixture long enough for the byte-size check.
+CN: 占位句 2：这一行只为让夹具达到体积阈值，不表达任何内容。
+
+【第3段】
+EN: Placeholder sentence 3: this line exists only to make the fixture long enough for the byte-size check.
+CN: 占位句 3：这一行只为让夹具达到体积阈值，不表达任何内容。
+
+【第4段】
+EN: Placeholder sentence 4: this line exists only to make the fixture long enough for the byte-size check.
+CN: 占位句 4：这一行只为让夹具达到体积阈值，不表达任何内容。
+
+【第5段】
+EN: Placeholder sentence 5: this line exists only to make the fixture long enough for the byte-size check.
+CN: 占位句 5：这一行只为让夹具达到体积阈值，不表达任何内容。
+
+【第6段】
+EN: Placeholder sentence 6: this line exists only to make the fixture long enough for the byte-size check.
+CN: 占位句 6：这一行只为让夹具达到体积阈值，不表达任何内容。
+
+【第7段】
+EN: Placeholder sentence 7: this line exists only to make the fixture long enough for the byte-size check.
+CN: 占位句 7：这一行只为让夹具达到体积阈值，不表达任何内容。
+
+【第8段】
+EN: Placeholder sentence 8: this line exists only to make the fixture long enough for the byte-size check.
+CN: 占位句 8：这一行只为让夹具达到体积阈值，不表达任何内容。
+
+【第9段】
+EN: Placeholder sentence 9: this line exists only to make the fixture long enough for the byte-size check.
+CN: 占位句 9：这一行只为让夹具达到体积阈值，不表达任何内容。
+
+【第10段】
+EN: Placeholder sentence 10: this line exists only to make the fixture long enough for the byte-size check.
+CN: 占位句 10：这一行只为让夹具达到体积阈值，不表达任何内容。
+

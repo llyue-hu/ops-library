@@ -1,0 +1,64 @@
+============================================================
+【年份】2099
+【科目】英语一（示例数据）
+【题型】翻译
+【文章主题】结构校验占位文本
+【大致词数】1200
+【来源】无
+【来源说明】测试夹具，非真实试题，仅用于验证 docset_qa.py
+============================================================
+=== 原文 ===
+Placeholder sentence 601: this line exists only to make the fixture long enough for the byte-size check.
+占位句 601：这一行只为让夹具达到体积阈值，不表达任何内容。
+Placeholder sentence 602: this line exists only to make the fixture long enough for the byte-size check.
+占位句 602：这一行只为让夹具达到体积阈值，不表达任何内容。
+Placeholder sentence 603: this line exists only to make the fixture long enough for the byte-size check.
+占位句 603：这一行只为让夹具达到体积阈值，不表达任何内容。
+Placeholder sentence 604: this line exists only to make the fixture long enough for the byte-size check.
+占位句 604：这一行只为让夹具达到体积阈值，不表达任何内容。
+Placeholder sentence 605: this line exists only to make the fixture long enough for the byte-size check.
+占位句 605：这一行只为让夹具达到体积阈值，不表达任何内容。
+Placeholder sentence 606: this line exists only to make the fixture long enough for the byte-size check.
+占位句 606：这一行只为让夹具达到体积阈值，不表达任何内容。
+
+=== 题目与答案 ===
+参考答案：见参考译文（本夹具无题目）。
+考查类型：翻译
+
+=== 逐段翻译 ===
+【第1段】
+EN: Placeholder sentence 602: this line exists only to make the fixture long enough for the byte-size check.
+CN: 占位句 602：这一行只为让夹具达到体积阈值，不表达任何内容。
+
+【第2段】
+EN: Placeholder sentence 603: this line exists only to make the fixture long enough for the byte-size check.
+CN: 占位句 603：这一行只为让夹具达到体积阈值，不表达任何内容。
+
+【第3段】
+EN: Placeholder sentence 604: this line exists only to make the fixture long enough for the byte-size check.
+CN: 占位句 604：这一行只为让夹具达到体积阈值，不表达任何内容。
+
+【第4段】
+EN: Placeholder sentence 605: this line exists only to make the fixture long enough for the byte-size check.
+CN: 占位句 605：这一行只为让夹具达到体积阈值，不表达任何内容。
+
+【第5段】
+EN: Placeholder sentence 606: this line exists only to make the fixture long enough for the byte-size check.
+CN: 占位句 606：这一行只为让夹具达到体积阈值，不表达任何内容。
+
+【第6段】
+EN: Placeholder sentence 607: this line exists only to make the fixture long enough for the byte-size check.
+CN: 占位句 607：这一行只为让夹具达到体积阈值，不表达任何内容。
+
+
+占位补充 1：fixture padding line, ignore me.
+
+占位补充 2：fixture padding line, ignore me.
+
+占位补充 3：fixture padding line, ignore me.
+
+占位补充 4：fixture padding line, ignore me.
+
+占位补充 5：fixture padding line, ignore me.
+
+占位补充 6：fixture padding line, ignore me.

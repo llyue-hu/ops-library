@@ -1,0 +1,81 @@
+============================================================
+【年份】2099
+【科目】英语一（示例数据）
+【题型】阅读理解
+【文章主题】结构校验占位文本
+【大致词数】1200
+【来源】无
+【来源说明】测试夹具，非真实试题，仅用于验证 docset_qa.py
+============================================================
+=== 原文 ===
+Placeholder sentence 401: this line exists only to make the fixture long enough for the byte-size check.
+占位句 401：这一行只为让夹具达到体积阈值，不表达任何内容。
+Placeholder sentence 402: this line exists only to make the fixture long enough for the byte-size check.
+占位句 402：这一行只为让夹具达到体积阈值，不表达任何内容。
+Placeholder sentence 403: this line exists only to make the fixture long enough for the byte-size check.
+占位句 403：这一行只为让夹具达到体积阈值，不表达任何内容。
+Placeholder sentence 404: this line exists only to make the fixture long enough for the byte-size check.
+占位句 404：这一行只为让夹具达到体积阈值，不表达任何内容。
+Placeholder sentence 405: this line exists only to make the fixture long enough for the byte-size check.
+占位句 405：这一行只为让夹具达到体积阈值，不表达任何内容。
+
+=== 题目与答案 ===
+1. 占位题干 4011。
+参考答案：B
+考查类型：细节题
+
+2. 占位题干 4012。
+参考答案：B
+考查类型：细节题
+
+3. 占位题干 4013。
+参考答案：B
+考查类型：细节题
+
+4. 占位题干 4014。
+参考答案：B
+考查类型：细节题
+
+5. 占位题干 4015。
+参考答案：B
+考查类型：细节题
+
+=== 逐段翻译 ===
+【第1段】
+EN: Placeholder sentence 402: this line exists only to make the fixture long enough for the byte-size check.
+CN: 占位句 402：这一行只为让夹具达到体积阈值，不表达任何内容。
+
+【第2段】
+EN: Placeholder sentence 403: this line exists only to make the fixture long enough for the byte-size check.
+CN: 占位句 403：这一行只为让夹具达到体积阈值，不表达任何内容。
+
+【第3段】
+EN: Placeholder sentence 404: this line exists only to make the fixture long enough for the byte-size check.
+CN: 占位句 404：这一行只为让夹具达到体积阈值，不表达任何内容。
+
+【第4段】
+EN: Placeholder sentence 405: this line exists only to make the fixture long enough for the byte-size check.
+CN: 占位句 405：这一行只为让夹具达到体积阈值，不表达任何内容。
+
+【第5段】
+EN: Placeholder sentence 406: this line exists only to make the fixture long enough for the byte-size check.
+CN: 占位句 406：这一行只为让夹具达到体积阈值，不表达任何内容。
+
+
+占位补充 1：fixture padding line, ignore me.
+
+占位补充 2：fixture padding line, ignore me.
+
+占位补充 3：fixture padding line, ignore me.
+
+占位补充 4：fixture padding line, ignore me.
+
+占位补充 5：fixture padding line, ignore me.
+
+占位补充 6：fixture padding line, ignore me.
+
+占位补充 7：fixture padding line, ignore me.
+
+占位补充 8：fixture padding line, ignore me.
+
+占位补充 9：fixture padding line, ignore me.
